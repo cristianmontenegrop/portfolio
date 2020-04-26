@@ -304,6 +304,7 @@ h4 {
   cursor: pointer;
   transition: .3s;
   font-size: 18px;
+  background: #34645a;
 }
 
 /* Footer */
@@ -321,8 +322,17 @@ h4 {
 }
 
 #back-to-top:hover {
-  background: #26abae;
+  background: #34645a;
 }
+
+.link-text {
+  color: #666666;
+}
+
+.link-text:hover {
+  color: #34645a;
+}
+
 
 .icons {
   background: #666666;
@@ -331,6 +341,10 @@ h4 {
   margin-left: 12px;
   margin-right: 12px;
   margin-bottom: 65px;
+}
+
+.icons:hover {
+  background: #34645a;
 }
 
 /* Media Queries */
