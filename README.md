@@ -1,7 +1,38 @@
-# portfolio
-Is there a clear call-to-action button for others to quickly learn about you?
-Is there any confusing part in the website layout?
-Is your copy too wordy?
-Does the site take a long time to load? Slow loading time is equivalent to being late for an interview and should be avoided by all means.
-Does the webpage show the core issues that users care about, or is it just a collection of unorganized achievements meaningless to the user?
-Can the webpage be loaded and displayed normally on mobile?
+
+                    
+# Portfolio
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cristianmontenegrop/portfolio)
+
+## Description
+
+This Website is a showcase of my skillset, projects and accomplishments so far, doing my best at having a clean and polished UI
+
+## Table of Contents 
+
+* [Installation](#installation)
+
+* [Usage](#usage)
+
+* [License](#license)
+
+## Installation
+
+To install necessary dependencies, run the following command:
+
+
+                        
+                        'open index.html in VS Code'
+                    
+                        
+
+## Usage
+
+browse through the website to see the projects that were made, about me, and contact information
+
+## License
+
+This project is licensed under the MIT license.
+  
+
+
+                    
