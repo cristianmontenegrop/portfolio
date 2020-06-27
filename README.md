@@ -8,6 +8,10 @@
 
 This Website is a showcase of my skillset, projects and accomplishments so far, doing my best at having a clean and polished UI
 
+![portfolio-image](public/assets/images/portfolio-image.png)
+
+
+
 ## Table of Contents 
 
 * [Installation](#installation)
