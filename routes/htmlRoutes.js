@@ -1,5 +1,4 @@
 const path = require('path');
-// const compression = require('compression');
 
 module.exports = (app) => {
   app.get('/', (req, res) => {
