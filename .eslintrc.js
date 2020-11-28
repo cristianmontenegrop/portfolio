@@ -1,7 +1,7 @@
 module.exports = {
-  plugins: {
-    'plugins': 'html',
-  },
+  // plugins: {
+  //   'plugins': 'html',
+  // },
   env: {
     browser: true,
     es2021: true,
