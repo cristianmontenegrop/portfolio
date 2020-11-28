@@ -1,9 +1,8 @@
-var path = require("path");
+const path = require('path');
+// const compression = require('compression');
 
-
-module.exports = function (app) {
-
-    app.get("/", function (req, res) {
-        res.sendFile(path.join(__dirname, "../public/index.html"));
-    });
+module.exports = (app) => {
+  app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, '../public/index.html'));
+  });
 };

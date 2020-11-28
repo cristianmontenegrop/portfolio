@@ -1,3 +1,6 @@
+import { Controller, Scene } from 'react-scrollmagic';
+
+
 $(document).ready(function () {
 
   const controller = new ScrollMagic.Controller({
