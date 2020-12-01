@@ -1,0 +1,17 @@
+{
+  "projectName": "portfolio",
+  "version": "3.0",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "none",
+    "config": {
+      "SourceDir": "/Users/cristian/classwork/portfolio",
+      "DistributionDir": "/Users/cristian/classwork/portfolio/public",
+      "BuildCommand": "npm run start",
+      "StartCommand": "npm run start"
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+}
